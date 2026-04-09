@@ -9,4 +9,4 @@ Program ini dibuat untuk menyelesaikan tugas elfrida.
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-[![Open In Colab]
+[![Open In Colab](https://colab.research.google.com/github/elfrida555/Elfrida/blob/main/tugas%20elfrida%20algoritma.ipynb)
